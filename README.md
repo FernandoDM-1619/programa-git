@@ -26,7 +26,5 @@ Primera parte.
 
 
 
-Segunda parte.
-
-
+Básicamente en mi repositorio he subido todos los HTML de los ejercicios anteriores y además he metido el README que se me pidió, eso es lo que hay en el repositorio.
 
